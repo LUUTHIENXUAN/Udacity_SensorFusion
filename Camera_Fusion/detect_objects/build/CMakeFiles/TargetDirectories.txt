@@ -1,0 +1,3 @@
+/Users/luuthienxuan/Downloads/detect_objects/build/CMakeFiles/rebuild_cache.dir
+/Users/luuthienxuan/Downloads/detect_objects/build/CMakeFiles/edit_cache.dir
+/Users/luuthienxuan/Downloads/detect_objects/build/CMakeFiles/detect_objects.dir
